@@ -1,0 +1,18 @@
+{
+  "simple_object": {
+    "id": 1,
+    "name" : "obj1",
+    "num_arr": [1,2,3,4]
+  },
+  "arrayObject": [
+  {
+   "id" : 2,
+   "name": "arr1",
+   "my_arr": ["str1", "str2"]
+   },
+   {
+   "id" : 3,
+   "name": "arr2"
+   }
+  ]
+}
