@@ -2,7 +2,11 @@
   "simple_object": {
     "id": 1,
     "name" : "obj1",
-    "num_arr": [1,2,3,4]
+    "num_arr": [1,2,3,4],
+    "innerObj": {
+      "math": true,
+      "fib": [1,1,2,3,5]
+    }
   },
   "arrayObject": [
   {
